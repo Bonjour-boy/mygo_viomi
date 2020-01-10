@@ -1,0 +1,30 @@
+.leftFont{
+    font-size: .453333rem;
+    line-height: .613333rem;
+    float: left;
+    font-family: monospace;
+    font-weight: 600;
+}
+.issueTitle{
+    font-size: .453333rem;
+    line-height: .613333rem;
+    color: #333;
+    font-weight: bold;
+}
+.issueMain{
+    margin: 0;
+    padding: .453333rem;
+    border-bottom: .026667rem solid #eee;
+}
+
+
+
+.Issue_text{
+    background:#fff;
+    margin-top:.186667rem;
+}
+.Issue_top{
+    padding: .266667rem .373333rem;
+    text-align: center;
+    background:#fff;
+}

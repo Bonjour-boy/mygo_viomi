@@ -1,0 +1,29 @@
+.listitem{
+    padding: .493333rem .546667rem; 
+}
+.Recipe_img{
+    width: .666667rem;
+    height: .666667rem;
+    margin-right: .266667rem;
+    vertical-align: middle;
+}
+.Recipe_Txt{
+    font-size: .4rem;
+    color: #fff;
+    vertical-align: middle;
+}
+.Recipe_icon{
+    color: #fff;
+    vertical-align: middle;
+    float: right;
+}
+.listitem[aria-expanded~=true] .Recipe_icon{
+    transform: rotate(90deg);
+}
+.set_txt{
+    font-size: .4rem;
+    float: right;
+    margin-right: .186667rem;
+    color: #fff;
+   line-height: .586667rem;
+}

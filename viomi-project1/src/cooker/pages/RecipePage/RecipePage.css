@@ -1,0 +1,24 @@
+ul,li{
+    list-style: none;
+}
+.recipe_app{
+    background: #ffffff;
+    height: 100%;
+}
+/* .recipe_title{
+    font-size: .453333rem;
+    font-weight:400;
+    color:rgba(46,46,46,1);
+    line-height: .64rem;
+    padding: .32rem;
+    text-align: center;
+}
+.back{
+    float: left;
+    width: .64rem;
+    height: .64rem;
+}
+.font_17{
+    font-size: .453333rem;
+    line-height: .64rem;
+} */

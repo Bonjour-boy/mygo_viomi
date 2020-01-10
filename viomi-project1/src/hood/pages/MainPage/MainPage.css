@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  html,body,#root{
+      height: 100%;
+  }
+  .app{
+    height: 100%;
+    background:linear-gradient(180deg,rgba(10,60,132,1) 0%,rgba(121,138,241,1) 100%);
+  }
+  .main{
+    height: calc(100% - 3.906667rem);
+    overflow: hidden;
+  }
+  .mianImg{
+    width: 4.933333rem;
+    height: 4.933333rem;
+    background: url(../../assets/img/hood@2x.png) no-repeat;
+    background-size: 100% 100%;
+    margin: 1.933333rem auto 0;
+    position: relative;
+  }
+  .modelState{
+    line-height:.493333rem;
+    font-size: .373333rem;
+    color: #ffffff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .kitchen{
+    font-size: .266667rem;
+    line-height: .36rem;
+    position: absolute;
+    top: 2.906667rem;
+    left: 50%;
+    transform: translate(-50%);
+    color: rgba(255, 255, 255, .6);
+  }
+  .power{
+    width: 2.453333rem;
+    height: .666667rem;
+    margin: .933333rem auto 0;
+    background: url(../../assets/img/power.png) no-repeat;
+    background-size: 100% 100%;
+    font-size: .28rem;
+    line-height: .666667rem;
+    text-align: center;
+    color: #fff;
+  }

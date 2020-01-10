@@ -1,0 +1,86 @@
+html,body,#root{
+        margin: 0;
+        padding: 0;
+        height: 100%;
+}
+.app{
+    height: 100%;
+    background-image: linear-gradient(-180deg, #214fcf 0%, #7cabe9 100%);
+}
+.title{
+    font-size: .346667rem;
+    line-height: .453333rem;
+    text-align: center;
+    color: #fff;
+    padding-top: .08rem;
+}
+.main{
+    width: 3.866667rem;
+    height: 4.933333rem;
+    margin: 2rem auto auto;
+    background: url(../assets/img/drop_3x.png) no-repeat;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+.temp{
+    color: #fff;
+    font-size: .346667rem;
+    line-height: .346667rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+.font88{
+    font-size: 1.173333rem;
+    font-weight: 700;
+    margin-top: .16rem;
+    text-align: center;
+}
+.font22{
+    font-size: .293333rem;
+    color: #fff;
+    font-weight: normal;
+    vertical-align: top;
+}
+.foot{
+   border-top: .026667rem solid;
+   border-color: #fff3;
+   height: calc(292 / (1334 - 128) * 100vh);
+   position: fixed;
+   bottom: 0;
+   left: 0;
+   width: 100%;
+}
+.font26{
+    color: #fff;
+    margin-top: .32rem;
+    font-size: .346667rem;
+    line-height: .453333rem;
+    text-align: center;
+    margin-bottom: .666667rem;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+}
+.list1{
+    width: 1.466667rem;
+    height: 1.466667rem;
+    color: #fff;
+    font-size: .346667rem;
+    line-height: 1.466667rem;
+    text-align: center;
+    border: .026667rem solid #fff;
+    border-radius: 50%;
+}
+/* Slider */
+.am-slider-wrapper {
+    width: 7.466667rem !important;
+    border-radius: 1.066667rem !important;
+    overflow: hidden !important;
+    margin: auto !important;
+}
+.am-slider {
+    width: 6.4rem !important;  
+    height: 1.066667rem !important;
+    border-radius: 1.066667rem !important;
+}

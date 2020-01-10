@@ -1,0 +1,34 @@
+.main{
+    padding-left: .533333rem;
+    box-sizing: border-box;
+}
+.font_16{
+    font-size: .426667rem;
+    line-height: .586667rem;
+    color: #666;
+    margin: .266667rem 0 .266667rem;
+}
+.scroll{
+    overflow: auto;
+}
+.scroll::-webkit-scrollbar{
+    width: 0;
+}
+.type{
+    display: flex;
+}
+.item{
+    text-align: center;
+    margin-right: .266667rem;
+}
+.item_img{
+    /* width: 3.2rem;
+    height: 3.2rem; */
+    border-radius: .213333rem;
+    margin-bottom: .16rem;
+}
+.item_txt{
+    font-size: .373333rem;
+    line-height: .533333rem;
+    color: #333;;
+}

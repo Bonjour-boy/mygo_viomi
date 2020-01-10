@@ -1,0 +1,23 @@
+.SetTimgPage_app{
+    height: 100%;
+    background:rgba(60,60,60,1);
+}
+.SetTimgPage_title{
+    font-size: .32rem;
+    line-height: .32rem;
+    text-align: center;
+    color:rgba(254,254,254,.6);
+    padding-top: .106667rem;
+    margin-bottom: .24rem;
+}
+
+.SetTimer_footer{
+    width:100%;
+    height:2.24rem;
+    background:rgba(255,255,255,1);
+    border-radius: .64rem .64rem 0px 0px;
+    position: fixed;
+    bottom: 0;
+    padding: .426667rem .506667rem;
+    box-sizing: border-box;
+}

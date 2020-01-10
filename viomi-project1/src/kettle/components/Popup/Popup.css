@@ -1,0 +1,39 @@
+.warnPopup{
+    width: 9.2rem;
+    margin: .4rem;
+}
+.nomaltemp{
+    font-size: .48rem;
+    margin-top: .533333rem;
+    line-height: .48rem;
+    color: #000;
+    font-weight: 400;
+}
+.numtemp{
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #000;
+    margin-top: .266667rem;
+}
+.button{
+    width: 8.506667rem;
+    padding: .346667rem;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-top: .026667rem solid #eee;
+    font-size: .453333rem;
+    line-height: .613333rem;
+    color: #29c7ca;
+    font-weight: 100;
+}
+.cancel{
+    float: left;
+    width: 4.133333rem;
+    border-right: .026667rem solid #eee;
+    color: #666;
+}
+.confirm{
+    float: left;
+    width: 4.133333rem;
+}

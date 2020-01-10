@@ -1,0 +1,23 @@
+.rectangle{
+    /* width: 4.346667rem; */
+    height: 1.333333rem;
+    border: .026667rem solid rgba(204,204,204,1);;
+    border-radius: .32rem;
+    padding-left: .373333rem;
+    position: relative;
+    box-sizing: border-box;
+}
+.rectangle_img{
+    width: .64rem;
+    height: .64rem;
+    position: absolute;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+.rectangle_txt{
+    font-size:.186667rem;
+    line-height: 1.333333rem;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}

@@ -1,0 +1,181 @@
+.workPage{
+    position: relative;
+    height: 100%;
+    background-image: linear-gradient(135deg, #FFBD48 0%, #F95656 100%);
+}
+/* 加热中、保温中 */
+.hot_show{
+    width:6.333333rem;
+    height:6.333333rem;
+    position: absolute;
+    background:url(../../assets/img/working1.png);
+    background-size: 100% 100%;
+    left: 50%;
+    top: 1.693333rem;
+    transform: translate(-50%);
+    text-align: center;
+}
+/* 冷饮料理中 */
+.workPage_cold{
+    height: 100%;
+    background: linear-gradient(135deg, #29E1C2 0%, #2574DC 100%);
+}
+.workPage_hot{
+    height: 100%;
+    background-image: linear-gradient(135deg, #FFBD48 0%, #F95656 100%);
+}
+.show_max_cold{
+    width: 5.466667rem;
+    height: 5.466667rem;
+    border: 1px solid rgba(255, 255, 255, .6);
+    margin: 1.866667rem auto;
+    border-radius: 50%;
+}
+.show_background_cold{
+    width: 5.2rem;
+    height: 5.2rem;
+    box-sizing: border-box;
+    margin: .133333rem;
+    border: .213333rem solid rgba(255, 255, 255, .6);
+    border-radius: 50%;
+}
+/* 料理完成时 */
+.show_max_complete{
+    border: 1px solid rgba(255, 255, 255, .6);
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+.show_background_complete{
+    margin: .2rem;
+    width: 195px;
+    height: 195px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: .213333rem solid rgba(255, 255, 255, .6);
+    position: relative;
+}
+.complete_img{
+    width: 2rem;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+/* 手动料理中 */
+.min_rev{
+    font-size: .32rem;
+    line-height: .426667rem;
+    color: #fff;
+    display: block;
+}
+
+.header{
+    padding-top: .106667rem;
+    text-align: center;
+    color: #fff;       
+}
+.workPage_main{
+    position: relative;
+}
+.show_max{
+    border: .133333rem dotted rgba(255, 255, 255, .6);
+    position: absolute;
+    left: 50%;
+    top: 1.693333rem;
+    transform: translate(-50%); 
+    border-radius: 100%;
+    box-sizing: border-box;  
+}
+.show_big{
+    border: 1px solid rgba(255, 255, 255, .8);
+    border-radius: 100%;
+    margin: .213333rem;
+    box-sizing: border-box;  
+}
+.show_background{
+    width: 5.2rem;
+    height: 5.2rem;
+    margin: .106667rem;
+    box-sizing: border-box;
+    border: .106667rem solid rgba(255, 255, 255, .6);
+    border-radius: 100%;
+    text-align: center;
+}
+.show_background dt {
+    margin-top: 1.2rem;
+    font-size: .666667rem;
+    color: #fff;
+}
+.show_background .time{
+    font-size: .96rem;
+    line-height: 1.513333rem;
+    color: #fff;
+}
+.show_background .text{
+    font-size: .32rem;
+    line-height: .426667rem;
+    color: #fff;
+}
+.workPage_cancel{
+    width: 4.533333rem;
+    height: 1.173333rem;
+    box-sizing: border-box;
+    border: 1px solid #fff;
+    border-radius: .586667rem;
+    text-align: center;
+    color: #fff;
+    line-height: 1.173333rem;
+    position: absolute;
+    left: 50%;
+    bottom: .933333rem;
+    transform: translate(-50%);
+}
+
+
+/* 加热中 保温中*/
+.max_temp{
+    font-size: 1.92rem;
+    line-height: 2.04rem;
+    color: #fff;
+    margin-top: 3.36rem;
+}
+.min_temp{
+    font-size: .346667rem;
+    line-height: .48rem;
+    color: #fff;
+    opacity: .7;
+    vertical-align: top;
+    font-weight: 600;
+}
+.text_time{
+    position: absolute;
+    left: 50%;
+    top: 10.333333rem;
+    transform: translate(-50%); 
+    text-align: center;
+}
+.max_time{
+    font-size: .96rem;
+    line-height: 1.013333rem;
+    color: #fff;
+}
+.min_time{
+    font-size: .32rem;
+    line-height: .48rem;
+    color: #fff;
+}
+
+/* 预约中 */
+.set_timePage{
+    height: 100%;
+    background-image: linear-gradient(0deg, #FFBD48 20%, #F95656 100%);
+}
+.show_img{
+    width: 5.226667rem;
+    height: 5.226667rem;
+    background: url(../../assets/img/rollTime@2x.png);
+    background-size: 100% 100%;
+    margin: .266667rem;
+}

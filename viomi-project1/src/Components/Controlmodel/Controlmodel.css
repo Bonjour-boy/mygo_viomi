@@ -1,0 +1,12 @@
+.Controlmodel{
+    float: left;
+}
+.Controlmodel_img{
+    width: 1.493333rem;
+    height: 1.493333rem;
+}
+.Controlmodel_img_txt{
+    color: #fff;
+    text-align: center;
+    margin-top: .106667rem;
+}

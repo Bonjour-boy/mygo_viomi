@@ -1,0 +1,23 @@
+.footer{
+    height: 3.866667rem;
+    border-top: 1px solid #8093e0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/* 组件PickerView样式*/
+.am-picker-col-indicator {
+  height: 1.306667rem !important;
+  top: 1.853333rem !important;
+}
+.am-picker-col-content{
+  padding: 1.84rem 0 !important;
+}
+.am-picker-col-mask{
+  background-size: 100% 2.88rem!important;
+  top: -1.04rem;
+  padding-bottom: 1.066667rem;
+}
+.am-picker-col{
+  height: 6rem !important;
+}

@@ -1,0 +1,33 @@
+.order{
+    float: left;
+    width: 2.88rem;
+    height: 1.386667rem;
+    background: #3C3C3C;
+    border-radius: .693333rem;
+    font-size: .4rem;
+    color: #fff;
+    line-height: 1.386667rem;
+    text-align: center;
+  }
+  /* .timerimg{
+    width: .72rem;
+    height: .72rem;
+    margin-right: .133333rem;
+    vertical-align: middle;
+  } */
+  .timeTxt{
+    font-size: .48rem;
+    vertical-align: middle;
+  }
+  .start{
+    float: left;
+    width: 5.76rem;
+    height: 1.386667rem;
+    background: #FF8C27;
+    margin-left: .293333rem;
+    border-radius: .693333rem;
+    font-size: .4rem;
+    color: #fff;
+    line-height: 1.386667rem;
+    text-align: center;
+  }

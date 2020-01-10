@@ -1,0 +1,30 @@
+.show_error{
+    width: 100%;
+    height: .853333rem;
+    text-align: center;
+    float: left;
+}
+.error{
+    height: .853333rem;
+    background:rgba(255,255,255,.3);
+    border-radius: .426667rem;
+    text-align: center;
+    display: inline-block;
+    padding: 0 .133333rem;
+    box-sizing: border-box;
+  }
+  .error_img{
+    width: .64rem;
+    height: .64rem;
+    vertical-align: middle;
+    margin-right: .266667rem;
+    margin-top: .026667rem;
+  }
+  .error_txt{
+    color: #fff;
+    line-height: .853333rem;
+    vertical-align: middle;
+  }
+  .am-icon{
+    vertical-align: middle;
+  }

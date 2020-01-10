@@ -1,0 +1,16 @@
+.HomeMain{
+  height: 8rem;
+  background: url(../../assets/img/cooktype/icon_cooker_primary@2x.png) no-repeat;
+  background-size: 100% 100%;
+  margin-top: .773333rem;
+}
+.lefttxt{
+    width: 3.333333rem;
+    float: left;
+    padding-left: .666667rem;
+    margin: 2.88rem  .666667rem 0 0;
+  }
+  .rightimg{
+    width: 4.693333rem;
+    margin-top: 1.493333rem;
+  }
